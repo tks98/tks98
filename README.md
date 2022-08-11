@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Travis!</h1>
-<h3 align="center">Platform Engineer and Professor. Passionate about Security, DevOps, and Teaching </h3>
+<h3 align="center">DevSecOps Engineer and Professor. Passionate about Security, DevOps, and Teaching </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tks98&label=Profile%20views&color=0e75b6&style=flat" alt="tks98" /> </p>
 
