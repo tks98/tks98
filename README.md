@@ -8,8 +8,5 @@
     <img src="https://img.shields.io/twitter/follow/_tks98?logo=twitter&style=for-the-badge" alt="_tks98" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tks98&show_icons=true&locale=en" alt="tks98" />
-</p>
 <p align="center">Security, Programming, DevOps, ML, and Teaching </p>
 
