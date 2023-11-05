@@ -8,5 +8,4 @@
     <img src="https://img.shields.io/twitter/follow/_tks98?logo=twitter&style=for-the-badge" alt="_tks98" />
   </a>
 </p>
-<p align="center">Security, Programming, DevOps, ML, and Teaching </p>
 
